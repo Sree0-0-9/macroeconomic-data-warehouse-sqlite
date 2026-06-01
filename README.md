@@ -42,7 +42,3 @@ Use dimensional modelling when recurring economic or performance reporting requi
 ## How To Use
 
 Open the SQL script in SQLite DB Browser, SQLite CLI, or another SQL environment that supports SQLite syntax. The script defines the warehouse structure and transformation logic for the macroeconomic analysis workflow.
-
-## Portfolio Note
-
-This is a public portfolio version prepared from academic analytics work. Student IDs, group-member details, and course-submission wording have been removed.
