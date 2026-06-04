@@ -35,8 +35,8 @@ Use dimensional modelling when recurring economic or performance reporting requi
 
 ```text
 .
-├── macroeconomic_data_warehouse.sql
-└── README.md
+|-- macroeconomic_data_warehouse.sql
+`-- README.md
 ```
 
 ## How To Use
